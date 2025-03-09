@@ -1,7 +1,7 @@
 import qrcode
 
 # URL where your webpage will be hosted (replace with your Render URL later)
-url = "https://your-app-name.onrender.com"
+url = "https://kidding-h.onrender.com"
 
 # Create QR code
 qr = qrcode.QRCode(
